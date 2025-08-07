@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "my_krml_25660135"
+version = "0.1.0"
+description = "A kernel ridge regression package"
+authors = ["Siqi Zhang"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.4"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
